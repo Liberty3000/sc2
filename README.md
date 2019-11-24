@@ -1,6 +1,5 @@
 # sc2
 
-## StarCraft II Reinforcement Learning Environment
 sc2 is a library for simulating and training agents in the StarCraft II learning environment.
 
 To install the package, run the following commands:
@@ -9,6 +8,7 @@ git clone git@github.com:Liberty3000/sc2.git
 cd sc2
 pip install -e .
 ```
+
 <img align="center" src="https://lh3.googleusercontent.com/9iFtbADMvedQJRm_IjHb2tT5swr03ZUdK2CQPeDmNocJKU9dYMySEjP_kLs9Iyx8PputYY8xbaRCcaYas7GAjgRIRQ2-xSnItquZMPc=w1440" width="1000"/>
 
 ______________
